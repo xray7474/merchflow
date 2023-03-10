@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1068735842083",
+    "project_id": "merchflow-2991e",
+    "storage_bucket": "merchflow-2991e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068735842083:android:65cae60d525219385e2e96",
+        "android_client_info": {
+          "package_name": "com.merchflow.merchflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068735842083-cavihtmfbs9atkvr4r9e4ovkq65m7mrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.merchflow.merchflow",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1068735842083-rbdprvob1u8sjnun9ck1rfc6vf3npifs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0EWK-8a9dx22l1S7sMa5PXjjS6ck3gN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068735842083-rbdprvob1u8sjnun9ck1rfc6vf3npifs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068735842083-lir6flnjt595v2kr316dbhrt7b8b17p6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.merchflow.merchflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
